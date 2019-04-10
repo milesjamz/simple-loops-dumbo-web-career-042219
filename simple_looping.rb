@@ -48,5 +48,6 @@ phrase = "Welcome to Flatiron School's Web Development Course!"
 counter = 7
 for counter in 1..7 do
   puts phrase
+  counter -= 1
 end
 end
