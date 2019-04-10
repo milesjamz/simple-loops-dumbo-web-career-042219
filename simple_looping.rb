@@ -49,4 +49,3 @@ for counter in 1..7 do
   puts phrase
 end
 end
-end
