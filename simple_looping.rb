@@ -48,3 +48,4 @@ phrase = "Welcome to Flatiron School's Web Development Course!"
 for counter in 1..7 do
 puts phrase
 end
+end
